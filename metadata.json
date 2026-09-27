@@ -1,0 +1,6 @@
+{
+  "name": "LegalConnect",
+  "description": "A modern LegalTech platform to discover specialized lawyers through AI legal issue classification and request consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

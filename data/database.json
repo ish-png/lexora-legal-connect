@@ -1,0 +1,1136 @@
+{
+  "users": [
+    {
+      "_id": "usr_admin_01",
+      "name": "LegalConnect Admin",
+      "email": "admin@legalconnect.com",
+      "phone": "+1 (555) 010-0001",
+      "password": "$2b$10$o3n6oruygCMtNLjieVSZ6.U2G.YSkj.4Fq.0uc4Sn.C1Jq5ZbYW2e",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_client_01",
+      "name": "Sarah Jenkins",
+      "email": "sarah@demo.legalconnect.com",
+      "phone": "+1 (555) 021-1001",
+      "password": "$2b$10$vfJf2.u8FckVm0sU72LAVudg/rLbPVM.rPBeLHmD.D3V/V1/CcN36",
+      "role": "client",
+      "status": "active",
+      "createdAt": "2026-01-10T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_client_02",
+      "name": "Michael Chen",
+      "email": "michael@demo.legalconnect.com",
+      "phone": "+1 (555) 021-1002",
+      "password": "$2b$10$vfJf2.u8FckVm0sU72LAVudg/rLbPVM.rPBeLHmD.D3V/V1/CcN36",
+      "role": "client",
+      "status": "active",
+      "createdAt": "2026-01-15T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_client_03",
+      "name": "Emily Rodriguez",
+      "email": "emily@demo.legalconnect.com",
+      "phone": "+1 (555) 021-1003",
+      "password": "$2b$10$vfJf2.u8FckVm0sU72LAVudg/rLbPVM.rPBeLHmD.D3V/V1/CcN36",
+      "role": "client",
+      "status": "active",
+      "createdAt": "2026-02-01T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_client_04",
+      "name": "David Kumar",
+      "email": "david@demo.legalconnect.com",
+      "phone": "+1 (555) 021-1004",
+      "password": "$2b$10$vfJf2.u8FckVm0sU72LAVudg/rLbPVM.rPBeLHmD.D3V/V1/CcN36",
+      "role": "client",
+      "status": "active",
+      "createdAt": "2026-02-12T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_client_05",
+      "name": "Lisa Watson",
+      "email": "lisa@demo.legalconnect.com",
+      "phone": "+1 (555) 021-1005",
+      "password": "$2b$10$vfJf2.u8FckVm0sU72LAVudg/rLbPVM.rPBeLHmD.D3V/V1/CcN36",
+      "role": "client",
+      "status": "active",
+      "createdAt": "2026-03-01T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_01",
+      "name": "Adv. Marcus Vance",
+      "email": "marcus.vance@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1001",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_02",
+      "name": "Adv. Elena Rostova",
+      "email": "elena.rostova@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1002",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_03",
+      "name": "Adv. Priya Patel",
+      "email": "priya.patel@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1003",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_04",
+      "name": "Adv. Jonathan Reed",
+      "email": "jonathan.reed@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1004",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_05",
+      "name": "Adv. Aisha Morales",
+      "email": "aisha.morales@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1005",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_06",
+      "name": "Adv. Raymond Sterling",
+      "email": "raymond.sterling@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1006",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_07",
+      "name": "Adv. Maya Lin",
+      "email": "maya.lin@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1007",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_08",
+      "name": "Adv. Tariq Al-Mansoor",
+      "email": "tariq.almansoor@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1008",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_09",
+      "name": "Adv. Claire Beaumont",
+      "email": "claire.beaumont@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1009",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_10",
+      "name": "Adv. Arthur Pendelton",
+      "email": "arthur.pendelton@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1010",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_11",
+      "name": "Adv. Sofia Rossi",
+      "email": "sofia.rossi@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1011",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_12",
+      "name": "Adv. Liam Gallagher",
+      "email": "liam.gallagher@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1012",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_13",
+      "name": "Adv. Meera Nair",
+      "email": "meera.nair@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1013",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_14",
+      "name": "Adv. Carlos Mendoza",
+      "email": "carlos.mendoza@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1014",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_15",
+      "name": "Adv. Hannah Gross",
+      "email": "hannah.gross@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1015",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_16",
+      "name": "Adv. Kenneth O'Connor",
+      "email": "kenneth.oconnor@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1016",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_17",
+      "name": "Adv. Nadia Farooq",
+      "email": "nadia.farooq@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1017",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_18",
+      "name": "Adv. Victor Novak",
+      "email": "victor.novak@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1018",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_19",
+      "name": "Adv. Rachel Sterling",
+      "email": "rachel.sterling@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1019",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "usr_lawyer_20",
+      "name": "Adv. Benjamin Hayes",
+      "email": "benjamin.hayes@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1020",
+      "password": "$2b$10$k2P4XegoYmr5F0cTXoCetOMSROhBdzyj/O2dNd2jQvCBUhACjnJF6",
+      "role": "lawyer",
+      "status": "active",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    }
+  ],
+  "lawyerProfiles": [
+    {
+      "_id": "prof_lawyer_01",
+      "userId": "usr_lawyer_01",
+      "name": "Adv. Marcus Vance",
+      "email": "marcus.vance@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1001",
+      "specialization": "Tenancy & Landlord-Tenant Disputes",
+      "categories": [
+        "Property Law",
+        "Real Estate Law",
+        "Civil Law"
+      ],
+      "experience": 14,
+      "location": "New York, NY",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "education": "J.D., Columbia Law School",
+      "bio": "Adv. Vance is an experienced civil litigator dedicated to residential and commercial tenancy disputes, lease negotiations, and security deposit recovery.",
+      "consultationFee": 150,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call",
+        "In-Person"
+      ],
+      "availability": [
+        "Mon-Fri 09:00 - 16:00",
+        "Saturday 10:00 - 13:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Marcus%20Vance&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 30,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_02",
+      "userId": "usr_lawyer_02",
+      "name": "Adv. Elena Rostova",
+      "email": "elena.rostova@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1002",
+      "specialization": "Corporate Contracts & Entity Formation",
+      "categories": [
+        "Corporate & Business Law",
+        "Tax Law",
+        "Intellectual Property"
+      ],
+      "experience": 18,
+      "location": "San Francisco, CA",
+      "languages": [
+        "English",
+        "Russian",
+        "French"
+      ],
+      "education": "LL.M., Stanford Law School",
+      "bio": "Advising early-stage startups and enterprises on incorporation, venture terms, partnership disputes, and cross-border commercial transactions.",
+      "consultationFee": 250,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call"
+      ],
+      "availability": [
+        "Tue-Thu 10:00 - 17:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Elena%20Rostova&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 20,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_03",
+      "userId": "usr_lawyer_03",
+      "name": "Adv. Priya Patel",
+      "email": "priya.patel@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1003",
+      "specialization": "Divorce, Custody & Marital Settlement",
+      "categories": [
+        "Divorce & Family Law",
+        "Civil Law"
+      ],
+      "experience": 11,
+      "location": "Chicago, IL",
+      "languages": [
+        "English",
+        "Hindi",
+        "Gujarati"
+      ],
+      "education": "J.D., Northwestern Pritzker School of Law",
+      "bio": "Focuses on compassionate family mediation, child custody arrangements, spousal maintenance, and asset distribution.",
+      "consultationFee": 175,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call",
+        "In-Person"
+      ],
+      "availability": [
+        "Mon-Wed 09:00 - 15:00",
+        "Friday 10:00 - 14:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Priya%20Patel&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 31,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_04",
+      "userId": "usr_lawyer_04",
+      "name": "Adv. Jonathan Reed",
+      "email": "jonathan.reed@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1004",
+      "specialization": "Criminal Defense & Trial Advocacy",
+      "categories": [
+        "Criminal Law",
+        "Civil Law"
+      ],
+      "experience": 22,
+      "location": "Los Angeles, CA",
+      "languages": [
+        "English"
+      ],
+      "education": "J.D., UCLA School of Law",
+      "bio": "Former prosecutor offering criminal defense representation for misdemeanors, felonies, state court hearings, and appeals.",
+      "consultationFee": 280,
+      "consultationModes": [
+        "Video Call",
+        "In-Person"
+      ],
+      "availability": [
+        "Mon-Fri 08:30 - 18:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Jonathan%20Reed&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 20,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_05",
+      "userId": "usr_lawyer_05",
+      "name": "Adv. Aisha Morales",
+      "email": "aisha.morales@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1005",
+      "specialization": "Workplace Discrimination & Wage Recovery",
+      "categories": [
+        "Employment & Labour Law",
+        "Civil Law"
+      ],
+      "experience": 9,
+      "location": "Austin, TX",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "education": "J.D., University of Texas School of Law",
+      "bio": "Defends employees in unlawful termination claims, wage and overtime discrepancies, non-compete clauses, and workplace harassment.",
+      "consultationFee": 140,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call"
+      ],
+      "availability": [
+        "Mon-Fri 10:00 - 17:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Aisha%20Morales&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 20,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_06",
+      "userId": "usr_lawyer_06",
+      "name": "Adv. Raymond Sterling",
+      "email": "raymond.sterling@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1006",
+      "specialization": "Cybercrime, Data Privacy & Online Fraud",
+      "categories": [
+        "Cyber Law",
+        "Consumer Law",
+        "Intellectual Property"
+      ],
+      "experience": 12,
+      "location": "Seattle, WA",
+      "languages": [
+        "English",
+        "German"
+      ],
+      "education": "J.D. / M.S. Cybersecurity, University of Washington",
+      "bio": "Assisting victims of identity theft, crypto fraud, unauthorized access, and advising digital businesses on GDPR and state privacy compliance.",
+      "consultationFee": 210,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call"
+      ],
+      "availability": [
+        "Mon-Fri 09:00 - 17:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Raymond%20Sterling&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 28,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_07",
+      "userId": "usr_lawyer_07",
+      "name": "Adv. Maya Lin",
+      "email": "maya.lin@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1007",
+      "specialization": "Patent Prosecution & Trademark Protection",
+      "categories": [
+        "Intellectual Property",
+        "Corporate & Business Law"
+      ],
+      "experience": 15,
+      "location": "Boston, MA",
+      "languages": [
+        "English",
+        "Mandarin"
+      ],
+      "education": "J.D., Harvard Law School",
+      "bio": "Patent attorney specializing in biotech, software patents, trademark registration, and defense against IP infringement claims.",
+      "consultationFee": 300,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call",
+        "In-Person"
+      ],
+      "availability": [
+        "Mon-Thu 10:00 - 16:30"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Maya%20Lin&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 25,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_08",
+      "userId": "usr_lawyer_08",
+      "name": "Adv. Tariq Al-Mansoor",
+      "email": "tariq.almansoor@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1008",
+      "specialization": "Immigration Visas & Naturalization",
+      "categories": [
+        "Immigration Law",
+        "Civil Law"
+      ],
+      "experience": 10,
+      "location": "Miami, FL",
+      "languages": [
+        "English",
+        "Arabic",
+        "Spanish"
+      ],
+      "education": "J.D., Georgetown University Law Center",
+      "bio": "Navigating family petitions, employment-based green cards (EB-1/EB-2), citizenship proceedings, and consular appeals.",
+      "consultationFee": 160,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call",
+        "In-Person"
+      ],
+      "availability": [
+        "Mon-Fri 09:30 - 17:30"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Tariq%20Al-Mansoor&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 23,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_09",
+      "userId": "usr_lawyer_09",
+      "name": "Adv. Claire Beaumont",
+      "email": "claire.beaumont@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1009",
+      "specialization": "Automobile Collisions & Bodily Injury Claims",
+      "categories": [
+        "Motor Vehicle / Accident Claims",
+        "Civil Law"
+      ],
+      "experience": 16,
+      "location": "Atlanta, GA",
+      "languages": [
+        "English",
+        "French"
+      ],
+      "education": "J.D., Emory University School of Law",
+      "bio": "Advocating for victims of multi-vehicle accidents, distracted driving collisions, pedestrian accidents, and insurance bad faith.",
+      "consultationFee": 130,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call",
+        "In-Person"
+      ],
+      "availability": [
+        "Mon-Fri 08:00 - 18:00",
+        "Saturday 09:00 - 12:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Claire%20Beaumont&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 20,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_10",
+      "userId": "usr_lawyer_10",
+      "name": "Adv. Arthur Pendelton",
+      "email": "arthur.pendelton@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1010",
+      "specialization": "IRS Audits & Federal Tax Resolution",
+      "categories": [
+        "Tax Law",
+        "Corporate & Business Law",
+        "Banking & Finance"
+      ],
+      "experience": 24,
+      "location": "Washington, DC",
+      "languages": [
+        "English"
+      ],
+      "education": "LL.M. in Taxation, NYU School of Law",
+      "bio": "Representing high-net-worth individuals and corporations in federal tax controversy, IRS audits, payroll tax penalties, and tax court litigation.",
+      "consultationFee": 320,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call"
+      ],
+      "availability": [
+        "Mon-Thu 09:00 - 15:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Arthur%20Pendelton&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 21,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_11",
+      "userId": "usr_lawyer_11",
+      "name": "Adv. Sofia Rossi",
+      "email": "sofia.rossi@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1011",
+      "specialization": "Consumer Protection & False Advertising",
+      "categories": [
+        "Consumer Law",
+        "Civil Law"
+      ],
+      "experience": 8,
+      "location": "Denver, CO",
+      "languages": [
+        "English",
+        "Italian"
+      ],
+      "education": "J.D., University of Colorado Law",
+      "bio": "Guiding consumers through deceptive trade practices, warranties, lemon law claims, and predatory lending disputes.",
+      "consultationFee": 110,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call"
+      ],
+      "availability": [
+        "Mon-Fri 10:00 - 16:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Sofia%20Rossi&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 29,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_12",
+      "userId": "usr_lawyer_12",
+      "name": "Adv. Liam Gallagher",
+      "email": "liam.gallagher@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1012",
+      "specialization": "Real Estate Title Examination & Zoning",
+      "categories": [
+        "Real Estate Law",
+        "Property Law"
+      ],
+      "experience": 13,
+      "location": "Philadelphia, PA",
+      "languages": [
+        "English"
+      ],
+      "education": "J.D., Penn Carey Law",
+      "bio": "Assisting property buyers and developers with land use permits, zoning variances, clear title actions, and boundary disputes.",
+      "consultationFee": 190,
+      "consultationModes": [
+        "Video Call",
+        "In-Person"
+      ],
+      "availability": [
+        "Mon-Fri 09:00 - 16:30"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Liam%20Gallagher&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 15,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_13",
+      "userId": "usr_lawyer_13",
+      "name": "Adv. Meera Nair",
+      "email": "meera.nair@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1013",
+      "specialization": "Banking Compliance & Debt Dispute Resolution",
+      "categories": [
+        "Banking & Finance",
+        "Consumer Law"
+      ],
+      "experience": 11,
+      "location": "Charlotte, NC",
+      "languages": [
+        "English",
+        "Malayalam",
+        "Hindi"
+      ],
+      "education": "J.D., Duke University School of Law",
+      "bio": "Consulting on consumer credit disputes, mortgage modifications, creditor harassment, and loan default workouts.",
+      "consultationFee": 165,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call"
+      ],
+      "availability": [
+        "Mon-Fri 09:00 - 17:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Meera%20Nair&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 14,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_14",
+      "userId": "usr_lawyer_14",
+      "name": "Adv. Carlos Mendoza",
+      "email": "carlos.mendoza@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1014",
+      "specialization": "Civil Litigation & Breach of Contract",
+      "categories": [
+        "Civil Law",
+        "Property Law"
+      ],
+      "experience": 17,
+      "location": "Phoenix, AZ",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "education": "J.D., Sandra Day O'Connor College of Law",
+      "bio": "Trial attorney handling complex breach of contract disputes, civil fraud, partnership dissolution, and property damage actions.",
+      "consultationFee": 220,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call",
+        "In-Person"
+      ],
+      "availability": [
+        "Mon-Fri 08:30 - 17:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Carlos%20Mendoza&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 29,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_15",
+      "userId": "usr_lawyer_15",
+      "name": "Adv. Hannah Gross",
+      "email": "hannah.gross@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1015",
+      "specialization": "Domestic Relations & Adoption Law",
+      "categories": [
+        "Divorce & Family Law"
+      ],
+      "experience": 7,
+      "location": "Portland, OR",
+      "languages": [
+        "English",
+        "German"
+      ],
+      "education": "J.D., Lewis & Clark Law School",
+      "bio": "Focused on domestic legal matters, legal adoption, foster guardianship, post-nuptial agreements, and amicable divorce resolution.",
+      "consultationFee": 125,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call"
+      ],
+      "availability": [
+        "Mon-Thu 09:00 - 15:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Hannah%20Gross&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 22,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_16",
+      "userId": "usr_lawyer_16",
+      "name": "Adv. Kenneth O'Connor",
+      "email": "kenneth.oconnor@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1016",
+      "specialization": "DUI Defense & Traffic Violations",
+      "categories": [
+        "Criminal Law",
+        "Motor Vehicle / Accident Claims"
+      ],
+      "experience": 14,
+      "location": "Dallas, TX",
+      "languages": [
+        "English"
+      ],
+      "education": "J.D., SMU Dedman School of Law",
+      "bio": "Defending motorists facing reckless driving charges, DUI citations, license revocations, and administrative traffic hearings.",
+      "consultationFee": 180,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call",
+        "In-Person"
+      ],
+      "availability": [
+        "Mon-Sat 09:00 - 18:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Kenneth%20O'Connor&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 23,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_17",
+      "userId": "usr_lawyer_17",
+      "name": "Adv. Nadia Farooq",
+      "email": "nadia.farooq@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1017",
+      "specialization": "Immigration Asylum & Deportation Defense",
+      "categories": [
+        "Immigration Law",
+        "Civil Law"
+      ],
+      "experience": 10,
+      "location": "Houston, TX",
+      "languages": [
+        "English",
+        "Urdu",
+        "Arabic"
+      ],
+      "education": "J.D., University of Houston Law Center",
+      "bio": "Dedicated advocate for asylum seekers, humanitarian parole, cancellation of removal, and refugee adjustment of status.",
+      "consultationFee": 145,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call",
+        "In-Person"
+      ],
+      "availability": [
+        "Mon-Fri 09:00 - 16:30"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Nadia%20Farooq&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 15,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_18",
+      "userId": "usr_lawyer_18",
+      "name": "Adv. Victor Novak",
+      "email": "victor.novak@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1018",
+      "specialization": "Software Licensing & Trade Secrets",
+      "categories": [
+        "Intellectual Property",
+        "Cyber Law",
+        "Corporate & Business Law"
+      ],
+      "experience": 19,
+      "location": "San Jose, CA",
+      "languages": [
+        "English",
+        "Polish"
+      ],
+      "education": "J.D., UC Berkeley School of Law",
+      "bio": "Drafting software licensing agreements, SaaS contracts, non-disclosure terms, and prosecuting intellectual property misappropriation.",
+      "consultationFee": 290,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call"
+      ],
+      "availability": [
+        "Tue-Fri 10:00 - 17:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Victor%20Novak&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 23,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_19",
+      "userId": "usr_lawyer_19",
+      "name": "Adv. Rachel Sterling",
+      "email": "rachel.sterling@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1019",
+      "specialization": "Commercial Real Estate Leases & Land Purchase",
+      "categories": [
+        "Real Estate Law",
+        "Property Law",
+        "Corporate & Business Law"
+      ],
+      "experience": 6,
+      "location": "Minneapolis, MN",
+      "languages": [
+        "English"
+      ],
+      "education": "J.D., University of Minnesota Law School",
+      "bio": "Assisting small businesses with storefront leases, retail development agreements, and commercial purchase contracts.",
+      "consultationFee": 135,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call"
+      ],
+      "availability": [
+        "Mon-Fri 09:00 - 16:00"
+      ],
+      "verificationStatus": "pending",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Rachel%20Sterling&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 30,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "_id": "prof_lawyer_20",
+      "userId": "usr_lawyer_20",
+      "name": "Adv. Benjamin Hayes",
+      "email": "benjamin.hayes@demo.legalconnect.com",
+      "phone": "+1 (555) 301-1020",
+      "specialization": "Severance Negotiation & Executive Compensation",
+      "categories": [
+        "Employment & Labour Law",
+        "Corporate & Business Law"
+      ],
+      "experience": 12,
+      "location": "San Diego, CA",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "education": "J.D., USD School of Law",
+      "bio": "Representing executives and employees in severance packaging, non-solicitation covenants, and compensation disputes.",
+      "consultationFee": 215,
+      "consultationModes": [
+        "Video Call",
+        "Phone Call"
+      ],
+      "availability": [
+        "Mon-Fri 10:00 - 18:00"
+      ],
+      "verificationStatus": "verified",
+      "avatarUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Adv.%20Benjamin%20Hayes&backgroundColor=0f172a,1e293b,334155",
+      "isDemo": true,
+      "consultationCount": 20,
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    }
+  ],
+  "consultationRequests": [
+    {
+      "_id": "req_demo_01",
+      "clientId": "usr_client_01",
+      "clientName": "Sarah Jenkins",
+      "clientEmail": "sarah@demo.legalconnect.com",
+      "clientPhone": "+1 (555) 021-1001",
+      "lawyerId": "prof_lawyer_01",
+      "lawyerName": "Adv. Marcus Vance",
+      "category": "Property Law",
+      "problemDescription": "My landlord withheld my $2,400 security deposit citing normal wall scuffs that were present at move-in. I have photographic evidence from the move-in inspection.",
+      "preferredDate": "2026-09-28",
+      "preferredTime": "11:00 AM",
+      "mode": "Video Call",
+      "status": "Accepted",
+      "notes": "Please have your lease agreement and inspection checklist ready for the call.",
+      "meetingLink": "https://meet.legalconnect.demo/vance-jenkins",
+      "createdAt": "2026-09-20T14:30:00.000Z"
+    },
+    {
+      "_id": "req_demo_02",
+      "clientId": "usr_client_02",
+      "clientName": "Michael Chen",
+      "clientEmail": "michael@demo.legalconnect.com",
+      "clientPhone": "+1 (555) 021-1002",
+      "lawyerId": "prof_lawyer_02",
+      "lawyerName": "Adv. Elena Rostova",
+      "category": "Corporate & Business Law",
+      "problemDescription": "Founding a Delaware C-Corp for a fintech product. Need advisory on founder vesting schedules and seed SAFE term review.",
+      "preferredDate": "2026-09-29",
+      "preferredTime": "02:00 PM",
+      "mode": "Video Call",
+      "status": "Pending",
+      "notes": "Looking forward to discussing the capitalization structure.",
+      "createdAt": "2026-09-21T09:15:00.000Z"
+    },
+    {
+      "_id": "req_demo_03",
+      "clientId": "usr_client_03",
+      "clientName": "Emily Rodriguez",
+      "clientEmail": "emily@demo.legalconnect.com",
+      "clientPhone": "+1 (555) 021-1003",
+      "lawyerId": "prof_lawyer_03",
+      "lawyerName": "Adv. Priya Patel",
+      "category": "Divorce & Family Law",
+      "problemDescription": "Seeking legal guidance on mutual consent separation and equitable division of joint property in Illinois.",
+      "preferredDate": "2026-09-30",
+      "preferredTime": "10:30 AM",
+      "mode": "Phone Call",
+      "status": "Pending",
+      "createdAt": "2026-09-21T16:45:00.000Z"
+    },
+    {
+      "_id": "req_demo_04",
+      "clientId": "usr_client_01",
+      "clientName": "Sarah Jenkins",
+      "clientEmail": "sarah@demo.legalconnect.com",
+      "clientPhone": "+1 (555) 021-1001",
+      "lawyerId": "prof_lawyer_05",
+      "lawyerName": "Adv. Aisha Morales",
+      "category": "Employment & Labour Law",
+      "problemDescription": "Inquiry regarding sudden severance agreement with non-compete clause spanning the entire state.",
+      "preferredDate": "2026-09-15",
+      "preferredTime": "03:00 PM",
+      "mode": "Video Call",
+      "status": "Completed",
+      "notes": "Initial consultation completed. Client advised to review non-compete reasonableness.",
+      "createdAt": "2026-09-12T11:00:00.000Z"
+    }
+  ],
+  "cases": [
+    {
+      "_id": "case_demo_01",
+      "clientId": "usr_client_01",
+      "clientName": "Sarah Jenkins",
+      "lawyerId": "prof_lawyer_01",
+      "lawyerName": "Adv. Marcus Vance",
+      "title": "Jenkins v. Hudson Properties - Deposit Recovery",
+      "category": "Property Law",
+      "description": "Recovery of wrongful security deposit deduction and statutory interest under state residential tenancy statutes.",
+      "status": "Active",
+      "nextAction": "Draft formal 10-day demand letter with inspection photos",
+      "notes": "Client provided move-in checklist with explicit timestamps.",
+      "timeline": [
+        {
+          "id": "tl_1",
+          "title": "Consultation Requested",
+          "description": "Sarah submitted dispute details regarding withheld deposit.",
+          "date": "2026-09-20",
+          "completed": true
+        },
+        {
+          "id": "tl_2",
+          "title": "Lawyer Accepted",
+          "description": "Adv. Marcus Vance confirmed consultation & created active case file.",
+          "date": "2026-09-20",
+          "completed": true
+        },
+        {
+          "id": "tl_3",
+          "title": "Documents Submitted",
+          "description": "Lease agreement and move-in inspection report uploaded.",
+          "date": "2026-09-21",
+          "completed": true
+        },
+        {
+          "id": "tl_4",
+          "title": "Consultation Completed",
+          "description": "Reviewed evidence and confirmed statutory violation basis.",
+          "date": "2026-09-22",
+          "completed": true
+        },
+        {
+          "id": "tl_5",
+          "title": "Case Active - Formal Demand",
+          "description": "Drafting formal statutory demand letter.",
+          "date": "2026-09-23",
+          "completed": false
+        },
+        {
+          "id": "tl_6",
+          "title": "Case Closed",
+          "description": "Resolution reached and escrow funds reimbursed.",
+          "date": "Pending",
+          "completed": false
+        }
+      ],
+      "createdAt": "2026-09-20T15:00:00.000Z",
+      "updatedAt": "2026-09-22T10:00:00.000Z"
+    }
+  ],
+  "documents": [
+    {
+      "_id": "doc_demo_01",
+      "caseId": "case_demo_01",
+      "clientId": "usr_client_01",
+      "clientName": "Sarah Jenkins",
+      "lawyerId": "prof_lawyer_01",
+      "fileName": "Residential_Lease_Agreement_Hudson_2025.pdf",
+      "fileType": "Agreement",
+      "fileSize": "1.4 MB",
+      "fileUrl": "#demo-file",
+      "uploadedBy": "client",
+      "createdAt": "2026-09-21T10:00:00.000Z"
+    },
+    {
+      "_id": "doc_demo_02",
+      "caseId": "case_demo_01",
+      "clientId": "usr_client_01",
+      "clientName": "Sarah Jenkins",
+      "lawyerId": "prof_lawyer_01",
+      "fileName": "MoveIn_MoveOut_Inspection_Log.pdf",
+      "fileType": "Notice",
+      "fileSize": "840 KB",
+      "fileUrl": "#demo-file",
+      "uploadedBy": "client",
+      "createdAt": "2026-09-21T10:05:00.000Z"
+    },
+    {
+      "_id": "doc_demo_03",
+      "caseId": "case_demo_01",
+      "clientId": "usr_client_01",
+      "clientName": "Sarah Jenkins",
+      "lawyerId": "prof_lawyer_01",
+      "fileName": "Statutory_Demand_Draft_v1.docx",
+      "fileType": "Court document",
+      "fileSize": "220 KB",
+      "fileUrl": "#demo-file",
+      "uploadedBy": "lawyer",
+      "createdAt": "2026-09-22T08:30:00.000Z"
+    }
+  ],
+  "classifications": [
+    {
+      "problemDescription": "My landlord kept my security deposit after I moved out",
+      "category": "Property Law",
+      "subCategory": "Rental / Tenant Dispute",
+      "confidence": 0.88,
+      "disclaimer": "This classification is informational and is not legal advice.",
+      "summary": "The query pertains to rental property rights, tenancy obligations, or deposit recovery.",
+      "_id": "id_y2sbkb0apmucz9ybd",
+      "createdAt": "2026-09-22T17:58:45.241Z"
+    },
+    {
+      "problemDescription": "My landlord has refused to return my security deposit.",
+      "category": "Property Law",
+      "subCategory": "Rental / Tenant Dispute",
+      "confidence": 0.88,
+      "disclaimer": "This classification is informational and is not legal advice.",
+      "summary": "The query pertains to rental property rights, tenancy obligations, or deposit recovery.",
+      "_id": "id_8ycsdxxahmucz4d8q",
+      "createdAt": "2026-09-22T17:54:24.650Z"
+    }
+  ]
+}
